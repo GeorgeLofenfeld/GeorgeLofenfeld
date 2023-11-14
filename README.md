@@ -23,7 +23,7 @@
 *   Testing and Logging
 *   Hashing and Encryption
 
-<div>
+<div style="margin: 40px 0">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
 </div>
 
