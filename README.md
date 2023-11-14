@@ -12,5 +12,5 @@ Junior .NET Developer
 
 ## 🛠 Technical Stack
 *   C#
-*   * ASP
+*   ASP
 
