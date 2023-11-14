@@ -10,11 +10,6 @@
        </a>
 </div>
 
-<div>
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
-</div>
-
-
 ## 🛠 Technical Stack
 *   ASP.NET Core MVC / REST API 
 *   SQL / Entity Framework
@@ -27,6 +22,10 @@
 *   Serialization and Deserialization
 *   Testing and Logging
 *   Hashing and Encryption
+
+<div>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
+</div>
 
 <div style="margin: 40px 0">
        <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
