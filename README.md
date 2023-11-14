@@ -10,3 +10,7 @@ Junior .NET Developer
        </a>
 </div>
 
+## 🛠 Technical Stack
+*   C#
+*   * ASP
+
