@@ -1,1 +1,1 @@
-### Hi, I'm George L. 👋
+Hi, I'm George L. 👋
