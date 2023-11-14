@@ -11,11 +11,11 @@ Junior C# Developer
 </div>
 
 ## 🛠 Technical Stack
-*   ASP.NET Core MVC / RESTApi / Entity Framework
-*   SQL
-*   Git
-*   Docker
+*   ASP.NET Core MVC / REST API 
+*   SQL / Entity Framework
 *   React.JS / HTML5 / CSS3
+*   GitHub / GitLab
+*   Docker
 *   CI / CD
 *   Agile / Scrum
 *   Architectures and Patterns
