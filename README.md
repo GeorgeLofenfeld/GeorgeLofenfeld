@@ -23,6 +23,4 @@
 *   Testing and Logging
 *   Hashing and Encryption
 
-<div align="center" style="margin: 40px 0">
-       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
-</div>
+       <img align="center" style="margin: 40px 0" src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
