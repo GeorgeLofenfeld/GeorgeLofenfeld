@@ -10,13 +10,9 @@
        </a>
 </div>
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=GeorgeLofenfeld&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=GeorgeLofenfeld&show_icons=true&count_private=true"/></a>
-   <img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
-</p>
+<div align='center'>
+   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
+</div>
 
 
 ## 🛠 Technical Stack
