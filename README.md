@@ -1,8 +1,8 @@
 # Hi, I'm George L. 👋
 ### Junior C# Developer
 
-<div>
-       <a margin='40 0' href="https://t.me/GeorgeLofenfeld">
+<div style="display: flex">
+       <a href="https://t.me/GeorgeLofenfeld">
               <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
        </a>
        <a href='mailto:georgelofenfeld@gmail.com'>
