@@ -30,7 +30,7 @@
 </p>
 
 <div style="margin: 40px">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   <a href="https://github.com/GeorgeLofenfeld/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
    </a>
 </div>**
