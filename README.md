@@ -10,7 +10,7 @@
        </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 40px 0">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
 </div>
 
