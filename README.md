@@ -25,6 +25,6 @@
 
 <div align="center" style="margin: 40px 0">
    <a href="https://komarev.com/ghpvc/?username=GeorgeLofenfeld">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
+       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
    </a>
 </div>
