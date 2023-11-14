@@ -24,5 +24,5 @@
 *   Hashing and Encryption
 
 <div align="center" style="margin: 40px 0">
-       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
+       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
 </div>
