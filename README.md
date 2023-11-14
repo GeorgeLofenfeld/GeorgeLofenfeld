@@ -1,4 +1,5 @@
 # Hi, I'm George L. 👋
+Junior .NET Developer
 
 <div align='center'>
        <a href="https://t.me/GeorgeLofenfeld">
