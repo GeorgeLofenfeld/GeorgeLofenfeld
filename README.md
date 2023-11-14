@@ -2,7 +2,7 @@
 ### Junior C# Developer
 
 <div align="center" sdisplay="flex">
-       <a padding-right="15px" href="https://t.me/GeorgeLofenfeld">
+       <a href="https://t.me/GeorgeLofenfeld">
               <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
        </a>
        <a href='mailto:georgelofenfeld@gmail.com'>
