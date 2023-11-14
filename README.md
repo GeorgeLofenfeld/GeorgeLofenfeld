@@ -1,6 +1,6 @@
 # Hi, I'm George L. 👋
 
-<div display="flex" justify-content="center">
+<div display="flex">
        <a href="https://t.me/GeorgeLofenfeld">
               <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
        </a>
