@@ -6,12 +6,12 @@
               <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
        </a>
        <a href='mailto:georgelofenfeld@gmail.com'>
-           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
        </a>
 </div>
 
-<div align='center'>
-   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
+<div>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
 </div>
 
 
@@ -28,6 +28,6 @@
 *   Testing and Logging
 *   Hashing and Encryption
 
-<div align="center" style="margin: 40px 0">
+<div style="margin: 40px 0">
        <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
 </div>
