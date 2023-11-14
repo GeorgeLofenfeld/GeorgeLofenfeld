@@ -30,5 +30,5 @@
 </p>
 
 <div>
-       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=DE002D">
+       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
 </div>
