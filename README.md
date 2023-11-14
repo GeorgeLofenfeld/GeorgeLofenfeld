@@ -10,6 +10,15 @@
        </a>
 </div>
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=GeorgeLofenfeld&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=GeorgeLofenfeld&show_icons=true&count_private=true"/></a>
+   <img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/>
+</p>
+
+
 ## 🛠 Technical Stack
 *   ASP.NET Core MVC / REST API 
 *   SQL / Entity Framework
