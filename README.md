@@ -1,7 +1,7 @@
 # Hi, I'm George L. 👋
 ### Junior C# Developer
 
-<div align="center" sdisplay="flex">
+<div align="center" sdisplay="flex" gap="15px">
        <a href="https://t.me/GeorgeLofenfeld">
               <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
        </a>
