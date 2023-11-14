@@ -22,11 +22,3 @@
 *   Serialization and Deserialization
 *   Testing and Logging
 *   Hashing and Encryption
-
-<div style="margin: 40px">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
-</div>
-
-<div style="margin: 40px">
-       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
-</div>
