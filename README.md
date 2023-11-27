@@ -16,7 +16,6 @@
 *   ASP.NET Core MVC / REST API 
 *   SQL / Entity Framework
 *   React.JS / HTML5 / CSS3
-*   GitHub / GitLab
 *   Docker
 *   CI / CD
 *   Agile / Scrum
