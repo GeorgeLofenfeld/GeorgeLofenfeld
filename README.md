@@ -23,7 +23,6 @@
 *   Architectures and Patterns
 *   Serialization and Deserialization
 *   Testing and Logging
-*   Hashing and Encryption
 
 <p>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
