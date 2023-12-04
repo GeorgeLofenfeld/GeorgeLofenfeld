@@ -23,10 +23,6 @@
 *   Serialization and Deserialization
 *   Testing and Logging
 
-<p>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLofenfeld&layout=compact"/>
-</p>
-
 <div>
        <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
 </div>
