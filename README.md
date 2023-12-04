@@ -1,5 +1,5 @@
 # Hi, I'm George L. 👋
-### Junior C# Developer
+### C# Developer
 
 <p>
        <a href="https://t.me/GeorgeLofenfeld">
