@@ -37,3 +37,6 @@ event organizer
 any company
 * I love learning, proactive, responsible,
 I bring any work to completion
+
+# Portfolio
+https://bit.ly/3GkXMG6
