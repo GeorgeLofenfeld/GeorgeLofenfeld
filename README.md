@@ -13,12 +13,15 @@
 </p>
 
 ## 🛠 Technical Stack
-*   ASP.NET Core MVC / REST API 
-*   SQL / Entity Framework
-*   React.JS / HTML5 / CSS3
-*   Docker
-*   CI / CD
-*   Agile / Scrum
-*   Architectures and Patterns
-*   Serialization and Deserialization
-*   Testing and Logging
+* ASP.NET Core MVC / REST API
+* SOLID / DRY / KISS / YAGNI
+* Behavioral / Creational / Structural
+patterns
+* Entity Framework Core
+* JSON / XML
+* NLog / NUnit
+* PostgreSQL / MySQL / MS SQL Server
+* Docker
+* CI / CD
+* Agile / Scrum
+* React.JS / HTML5 / CSS3
