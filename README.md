@@ -22,7 +22,3 @@
 *   Architectures and Patterns
 *   Serialization and Deserialization
 *   Testing and Logging
-
-<div>
-       <img src="https://komarev.com/ghpvc/?username=GeorgeLofenfeld&color=brightgreen">
-</div>
