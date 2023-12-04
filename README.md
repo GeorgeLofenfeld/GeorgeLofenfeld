@@ -25,3 +25,15 @@ patterns
 * CI / CD
 * Agile / Scrum
 * React.JS / HTML5 / CSS3
+
+## About me
+* Programming since 2020
+* * Trained in frontend and backend development:
+desktop, web, mobile and system
+* Professional musician, teacher,
+event organizer
+* Sportsman
+* I am sociable, I always find a common language in
+any company
+* I love learning, proactive, responsible,
+I bring any work to completion
