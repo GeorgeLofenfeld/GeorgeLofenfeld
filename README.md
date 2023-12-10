@@ -26,6 +26,10 @@ patterns
 * Agile / Scrum
 * React.JS / HTML5 / CSS3
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ## About me
 * Programming since 2020
 * * Trained in frontend and backend development:
