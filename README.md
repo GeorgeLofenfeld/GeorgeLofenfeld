@@ -13,11 +13,11 @@
 </p>
 
 ## 🛠 Technical Stack
-• Languages & Frameworks: Go, .NET (C#), JS/TS
-• Architecture: Microservices, Enterprise Architecture, REST API, gRPC
-• Databases: SQL (PostgreSQL, MS SQL), NoSQL (Redis, MongoDB) — лучше указать конкретные БД, с которыми работали
-• DevOps & Infra: Docker, Kubernetes, CI/CD
-• Methodologies: Agile / Scrum
+* Languages & Frameworks: Go, .NET (C#), JS/TS
+* Architecture: Microservices, Enterprise Architecture, REST API, gRPC
+* Databases: SQL, NoSQL
+* DevOps & Infra: Docker, Kubernetes, CI/CD
+* Methodologies: Agile / Scrum
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
