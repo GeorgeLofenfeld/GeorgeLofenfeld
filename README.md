@@ -1,5 +1,5 @@
 # Hi, I'm George L. 👋
-### Backend Developer
+### Fullstack Developer
 
 <p>
        <a href="https://t.me/GeorgeLofenfeld">
@@ -13,12 +13,11 @@
 </p>
 
 ## 🛠 Technical Stack
-* Go, .NET, JS/ TS
+* Go, .NET, JS/TS
 * gRPC, REST API
 * SQL / NoSQL
 * Docker, Kubernetes, CI/CD
 * Agile / Scrum
-* React.JS, Vue, Angular, HTML5, CSS3
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
