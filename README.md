@@ -13,18 +13,12 @@
 </p>
 
 ## 🛠 Technical Stack
-* ASP.NET Core MVC / REST API
-* SOLID / DRY / KISS / YAGNI
-* Behavioral / Creational / Structural
-patterns
-* Entity Framework Core
-* JSON / XML
-* NLog / NUnit
-* PostgreSQL / MySQL / MS SQL Server
-* Docker
-* CI / CD
+* Go, .NET, JS/ TS
+* gRPC, REST API
+* SQL / NoSQL
+* Docker, Kubernetes, CI/CD
 * Agile / Scrum
-* React.JS / HTML5 / CSS3
+* React.JS, Vue, Angular, HTML5, CSS3
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
