@@ -13,7 +13,8 @@
 </p>
 
 ## 🛠 Technical Stack
-* Go, .NET, JS/TS
+* Go / Microservices
+* .NET / Enterprise
 * gRPC, REST API
 * SQL / NoSQL
 * Docker, Kubernetes, CI/CD
