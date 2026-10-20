@@ -1,5 +1,5 @@
 # Hi, I'm George L. 👋
-### Fullstack Developer
+### Go / Backend Engineer
 
 <p>
        <a href="https://t.me/GeorgeLofenfeld">
@@ -31,5 +31,3 @@ desktop, web, mobile and system
 any company
 * I love learning, proactive, responsible,
 I bring any work to completion
-* Professional musician, teacher,
-event organizer, sportsman
