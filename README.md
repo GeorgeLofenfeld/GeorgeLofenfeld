@@ -13,7 +13,7 @@
 </p>
 
 ## 🛠 Technical Stack
-* Languages & Frameworks: Go, .NET (C#), JS/TS
+* Languages & Frameworks: Go, .NET (C#), JS
 * Architecture: Microservices, Enterprise Architecture, REST API, gRPC
 * Databases: SQL, NoSQL
 * DevOps & Infra: Docker, Kubernetes, CI/CD
@@ -29,5 +29,4 @@
 desktop, web, mobile and system
 * I am sociable, I always find a common language in
 any company
-* I love learning, proactive, responsible,
-I bring any work to completion
+* I love learning, proactive, responsible
