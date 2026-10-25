@@ -1,5 +1,5 @@
 # Hi, I'm George L. 👋
-### Go / Backend Engineer
+### Go / C# Backend Engineer
 
 <p>
        <a href="https://t.me/GeorgeLofenfeld">
