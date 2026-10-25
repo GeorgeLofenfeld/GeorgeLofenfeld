@@ -25,7 +25,7 @@
 
 ## About me
 * Programming since 2020
-* Experience ranging from international companies to startups
+* Experience ranging from startups to international companies
 * Trained in frontend and backend development:
 desktop, web, mobile and system
 * I am sociable, I always find a common language in
