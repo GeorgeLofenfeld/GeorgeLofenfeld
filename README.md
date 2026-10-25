@@ -13,9 +13,9 @@
 </p>
 
 ## 🛠 Technical Stack
-* Languages & Frameworks: Go, .NET (C#), JS
-* Architecture: Microservices, Enterprise Architecture, REST API, gRPC
-* Databases: SQL, NoSQL
+* Languages & Frameworks: Go, C#, JS
+* Architecture: Microservices, monolithic, REST API, gRPC
+* Databases: SQL, NoSQL, TSDB, in memory, search engines
 * DevOps & Infra: Docker, Kubernetes, CI/CD
 * Methodologies: Agile / Scrum
 
